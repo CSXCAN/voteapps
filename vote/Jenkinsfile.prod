@@ -3,7 +3,7 @@ pipeline {
   environment {
     imagetag = GIT_COMMIT.take(7)
   }
-
+i
   
 
 
